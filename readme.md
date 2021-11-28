@@ -1,4 +1,7 @@
-GAME RULES
+# GAME RULES
+
+Link: https://zsolt-nagy.github.io/dice-game/index.html 
+
 - 2 players
 - Each round, the player rolls the dice as many times as he/she wishes.
   The result of each roll is added to the player's score for that round.
